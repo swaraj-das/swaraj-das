@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Swaraj Das</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<h1 align="center">Hi 👋, I'm Swaraj</h1>
+<h3 align="center">A passionate programmer from Kolkata, India</h3>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaraj-das&label=Profile%20views&color=0e75b6&style=flat" alt="swaraj-das" /> </p>
 
@@ -7,8 +13,8 @@
 
 <p align="left"> <a href="https://twitter.com/swaraj__das" target="blank"><img src="https://img.shields.io/twitter/follow/swaraj__das?logo=twitter&style=for-the-badge" alt="swaraj__das" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Kotlin**
-
+- 📄 Know about my education - **B.Tech in Computer Science Engineering**
+- 🌱 I’m currently learning **Java & Kotlin**
 - 📫 How to reach me **swarajdas625w@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
