@@ -27,7 +27,7 @@
   <a href="https://fb.com/i.m.swaraj.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="i.m.swaraj.01" height="30" width="40" /></a>
   <a href="https://instagram.com/little_traveller_swaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="little_traveller_swaraj" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/swaraj_das_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swaraj_das_00" height="30" width="40" /></a>
-<a href="[https://auth.geeksforgeeks.org/user/@swarajd4www/swaraj das](https://www.geeksforgeeks.org/user/swarajd4www/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@swarajd4www/swaraj das" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/swarajd4www" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="swarajd4www" height="30" width="40" /></a>
 </p>
 
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Hack+Nerd+Font&duration=2000&pause=500&color=E6EDF3&random=false&width=435&lines=Feel+free+to+connect+with+me+%F0%9F%98%8A+" alt="Typing SVG" /></a>
