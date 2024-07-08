@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Swaraj</h1>
 <h3 align="center">A passionate programmer from Kolkata, India</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"></p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=swaraj-das&label=Profile%20views&color=0e75b6&style=flat" alt="swaraj-das" />
+<br>
+<p align="center">
+  <img alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 </p>
+<br>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swaraj-das" alt="swaraj-das" /></a>
@@ -14,6 +13,9 @@
 
 <p align="left">
   <a href="https://twitter.com/swaraj__das" target="blank"><img src="https://img.shields.io/twitter/follow/swaraj__das?logo=twitter&style=for-the-badge" alt="swaraj__das" /></a>
+</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=swaraj-das&label=Profile%20views&color=0e75b6&style=flat" alt="swaraj-das" />
 </p>
 
 - 📄 Know about my education - **B.Tech in Computer Science Engineering**
