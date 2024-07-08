@@ -3,7 +3,7 @@
 
 <br>
 <p align="center">
-  <img alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
+  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 </p>
 <br>
 
