@@ -54,15 +54,15 @@
 </div>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swaraj-das&theme=dark" alt="Streak Stats" />
+</div>
+
+<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swaraj-das&theme=dark" alt="Repos per Language" />
 </div>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swaraj-das&theme=dark" alt="Most Commit Language" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swaraj-das&theme=dark" alt="Streak Stats" />
 </div>
 
 <div align="center">
