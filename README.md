@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swaraj</h1>
 <h3 align="center">A passionate programmer from Kolkata, India</h3>
-
+<br>
+<iframe width="560" height="315" src="Music night - Made with PosterMyWall.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <p align="center">
   <img alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
