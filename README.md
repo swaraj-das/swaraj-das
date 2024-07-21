@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <img style="width: 800px; height: 220px;" src="https://streak-stats.demolab.com?user=sk66641&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak Stats" />
+  <img style="width: 800px; height: 220px;" src="https://streak-stats.demolab.com?user=swaraj-das&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak Stats" />
 </p>
 
 <div align="center">
