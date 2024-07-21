@@ -53,13 +53,13 @@
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
-<div align="center">
-  <img style="width: 800px; height: 220px;" src="https://github-readme-stats.vercel.app/api?username=swaraj-das&theme=dark" alt="GitHub Stats" />
-</div>
-
 <p align="center">
   <img style="width: 800px; height: 220px;" src="https://streak-stats.demolab.com?user=sk66641&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak Stats" />
 </p>
+
+<div align="center">
+  <img style="width: 800px; height: 220px;" src="https://github-readme-stats.vercel.app/api?username=swaraj-das&theme=dark" alt="GitHub Stats" />
+</div>
 
 <div align="center">
   <img style="width: 800px; height: 220px;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swaraj-das&theme=dark" alt="Repos per Language" />
