@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Swaraj</h1>
-<h3 align="center">A passionate programmer from Kolkata, India</h3>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=600&height=38&lines=A+passionate+programmer+from+Kolkata...;Problem+solver...;Exploring+the+world+of+tech...&center=true"></a>
+</p>
+
+
 <br>
 <p align="center">
   <img alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
