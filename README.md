@@ -6,8 +6,8 @@
 </p>
 <br>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swaraj-das" alt="swaraj-das" /></a>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swaraj-das&theme=darkhub" alt="swaraj-das" /></a>
 </p>
 
 <p align="left">
