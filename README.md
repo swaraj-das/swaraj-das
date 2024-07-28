@@ -60,22 +60,20 @@
 <p align="center">
    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=swaraj-das&show_icons=true&hide=&count_private=true&title_color=32CD32&text_color=ffffff&icon_color=32CD32&bg_color=1c1917&hide_border=true&show_icons=true&custom_title=My%20GitHub%20Stats&card_width=420px" alt="swaraj-das's GitHub stats" /></a>
    <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=swaraj-das&stroke=ffffff&background=1c1917&ring=32CD32&fire=32CD32&currStreakNum=ffffff&currStreakLabel=32CD32&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=420px" /></a>
+ <a href="#"><img style="width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=swaraj-das&show_icons=true&locale=en&layout=compact&title_color=32CD32&text_color=32CD32&bg_color=1c1917&hide_border=true" alt="Top Languages" /></a>
+
+
+
+
+
+
    <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=swaraj-das&theme=github-compact&custom_title=My%20GitHub%20Contribution%20Graph&radius=16&hide_border=true&area=true&color=32CD32" /></a>
 </p>
 
 
 
-<div align="center">
-  <img style="width: 800px; height: 220px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=swaraj-das&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</div>
 
-<div align="center">
-  <img style="width: 800px; height: 220px;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swaraj-das&theme=dark" alt="Repos per Language" />
-</div>
 
-<div align="center">
-  <img style="width: 800px; height: 220px;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swaraj-das&theme=dark" alt="Most Commit Language" />
-</div>
 
 
 
