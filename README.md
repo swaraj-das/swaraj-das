@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swaraj</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=600&height=38&lines=A+passionate+programmer+from+Kolkata...;Problem+solver...;Exploring+the+world+of+tech...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=32CD32&width=600&height=38&lines=A+passionate+programmer+from+Kolkata...;Problem+solver...;Exploring+the+world+of+tech...&center=true"></a>
 </p>
 
 
@@ -58,12 +58,12 @@
 </p>
 
 <p align="center">
-  <img style="width: 800px; height: 220px;" src="https://streak-stats.demolab.com?user=swaraj-das&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak Stats" />
+   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=swaraj-das&show_icons=true&hide=&count_private=true&title_color=32CD32&text_color=ffffff&icon_color=32CD32&bg_color=1c1917&hide_border=true&show_icons=true&custom_title=My%20GitHub%20Stats&card_width=420px" alt="swaraj-das's GitHub stats" /></a>
+   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=swaraj-das&stroke=ffffff&background=1c1917&ring=32CD32&fire=32CD32&currStreakNum=ffffff&currStreakLabel=32CD32&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=420px" /></a>
+   <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=swaraj-das&theme=github-compact&custom_title=My%20GitHub%20Contribution%20Graph&radius=16&hide_border=true&area=true&color=32CD32" /></a>
 </p>
 
-<div align="center">
-  <img style="width: 800px; height: 220px;" src="https://github-readme-stats.vercel.app/api?username=swaraj-das&theme=dark" alt="GitHub Stats" />
-</div>
+
 
 <div align="center">
   <img style="width: 800px; height: 220px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=swaraj-das&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
