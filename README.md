@@ -14,16 +14,14 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swaraj-das&theme=darkhub" alt="swaraj-das" /></a>
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/swaraj__das" target="blank"><img src="https://img.shields.io/twitter/follow/swaraj__das?logo=twitter&style=for-the-badge" alt="swaraj__das" /></a>
-</p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=swaraj-das&label=Profile%20views&color=0e75b6&style=flat" alt="swaraj-das" />
-</p>
+
 
 - 📄 Know about my education - **B.Tech in Computer Science Engineering**
 - 🌱 I’m currently learning **Java & Kotlin**
 - 📫 How to reach me **swarajdas625w@gmail.com**
+<p align="left">
+  <a href="https://twitter.com/swaraj__das" target="blank"><img src="https://img.shields.io/twitter/follow/swaraj__das?logo=twitter&style=for-the-badge" alt="swaraj__das" /></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -61,11 +59,9 @@
    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=swaraj-das&show_icons=true&hide=&count_private=true&title_color=32CD32&text_color=ffffff&icon_color=32CD32&bg_color=1c1917&hide_border=true&show_icons=true&custom_title=My%20GitHub%20Stats&card_width=420px" alt="swaraj-das's GitHub stats" /></a>
    <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=swaraj-das&stroke=ffffff&background=1c1917&ring=32CD32&fire=32CD32&currStreakNum=ffffff&currStreakLabel=32CD32&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=420px" /></a>
  <a href="#"><img style="width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=swaraj-das&show_icons=true&locale=en&layout=compact&title_color=32CD32&text_color=32CD32&bg_color=1c1917&hide_border=true" alt="Top Languages" /></a>
-
-
-
-
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=swaraj-das&label=Profile+Views&color=32CD32&style=for-the-badge" alt="swaraj-das" />
+</div>
 
    <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=swaraj-das&theme=github-compact&custom_title=My%20GitHub%20Contribution%20Graph&radius=16&hide_border=true&area=true&color=32CD32" /></a>
 </p>
