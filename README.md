@@ -58,8 +58,7 @@
 <p align="center">
    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=swaraj-das&show_icons=true&hide=&count_private=true&title_color=32CD32&text_color=ffffff&icon_color=32CD32&bg_color=1c1917&hide_border=true&show_icons=true&custom_title=My%20GitHub%20Stats&card_width=420px" alt="swaraj-das's GitHub stats" /></a>
    <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=swaraj-das&stroke=ffffff&background=1c1917&ring=32CD32&fire=32CD32&currStreakNum=ffffff&currStreakLabel=32CD32&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=420px" /></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaraj-das&layout=compact&langs_count=50" width="350" alt="Top Languages">
-
+<a href="#"><img style="width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=swaraj-das&show_icons=true&locale=en&layout=compact&title_color=32CD32&text_color=32CD32&bg_color=1c1917&hide_border=true&langs_count=50" alt="Top Languages" /></a>
 
 
 
