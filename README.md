@@ -61,6 +61,30 @@
  <a href="#"><img style="width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=swaraj-das&show_icons=true&locale=en&layout=compact&title_color=32CD32&text_color=32CD32&bg_color=1c1917&hide_border=true" alt="Top Languages" /></a>
  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaraj-das&repo=Special-Repo&layout=compact&langs_count=10"></a>
 
+ <!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .stats-card {
+            background-color: #000000; /* Black background */
+            padding: 10px;
+            border-radius: 8px;
+            display: inline-block;
+        }
+        .stats-card img {
+            filter: brightness(0) invert(1) hue-rotate(180deg) sepia(1) saturate(3) brightness(0.9); /* Adjust color to green */
+        }
+    </style>
+</head>
+<body>
+    <div class="stats-card">
+        <a href="https://github.com/swaraj-das/Special-Repo">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaraj-das&repo=Special-Repo&layout=compact&langs_count=10" alt="Top Languages of Swaraj Das">
+        </a>
+    </div>
+</body>
+</html>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=swaraj-das&label=Profile+Views&color=2c9135&style=for-the-badge" alt="swaraj-das" />
 </div>
