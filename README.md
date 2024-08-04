@@ -60,10 +60,6 @@
    <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=swaraj-das&stroke=ffffff&background=1c1917&ring=32CD32&fire=32CD32&currStreakNum=ffffff&currStreakLabel=32CD32&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=420px" /></a>
 <a href="#"><img style="width: 370px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=swaraj-das&show_icons=true&locale=en&layout=compact&title_color=32CD32&text_color=32CD32&bg_color=1c1917&hide_border=true&langs_count=50" alt="Top Languages" /></a>
 
-
-
-
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=swaraj-das&label=Profile+Views&color=2c9135&style=for-the-badge" alt="swaraj-das" />
 </div>
