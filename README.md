@@ -53,9 +53,6 @@
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
     <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" height="50" />
   </a>
-  <a href="https://github.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />
   </a>
