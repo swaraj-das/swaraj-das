@@ -18,7 +18,7 @@
 
 
 - 📄 Know about my education - **B.Tech in Computer Science Engineering**
-- 🌱 I’m currently learning **Java & Kotlin**
+- 🌱 I’m currently learning **Python**
 - 📫 How to reach me **swarajdas625w@gmail.com**
 <p align="left">
   <a href="https://twitter.com/swaraj__das" target="blank"><img src="https://img.shields.io/twitter/follow/swaraj__das?logo=twitter&style=for-the-badge" alt="swaraj__das" /></a>
