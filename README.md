@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swaraj-das&theme=darkhub" alt="swaraj-das" /></a>
+    <img src="https://github-trophies.vercel.app/?username=swaraj-das&theme=darkhub&title=MultiLanguage,Commit,Repositories,Followers,Issues,Stars,PullRequest,Reviews,Organizations,Contributions&column=10" alt="swaraj-das trophies" />
 </p>
 
 
