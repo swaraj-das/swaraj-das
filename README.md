@@ -6,7 +6,7 @@
 
 <br>
 <p align="center">
-  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+  <img alt="Coding" width="600" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/eef76b143584307.627d06916ce10.gif">
 </p>
 <br>
 
@@ -89,8 +89,6 @@
 
 <a href="#"><img style="width: 370px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=swaraj-das&show_icons=true&locale=en&layout=compact&title_color=32CD32&text_color=32CD32&bg_color=1c1917&hide_border=true&langs_count=50" alt="Top Languages" /></a>
 <div align="center">
-    <img src="https://i.pinimg.com/originals/7e/5c/07/7e5c0701fba480e5c59ccf400ea18e55.gif">
-    <br>
     <img src="https://komarev.com/ghpvc/?username=swaraj-das&label=Profile+Views&color=2c9135&style=for-the-badge" alt="swaraj-das" />
 </div>
 
