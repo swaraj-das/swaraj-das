@@ -6,7 +6,7 @@
 
 <br>
 <p align="center">
-  <img alt="Coding" width="600" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/eef76b143584307.627d06916ce10.gif">
+  <img alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/eef76b143584307.627d06916ce10.gif">
 </p>
 <br>
 
