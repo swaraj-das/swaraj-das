@@ -3,12 +3,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=32CD32&width=600&height=38&lines=A+passionate+programmer+from+Kolkata...;Problem+solver...;Exploring+the+world+of+tech...&center=true"></a>
 </p>
 
-
-<br>
 <p align="center">
-  <img alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/eef76b143584307.627d06916ce10.gif">
+  <a href="https://holopin.io/@swarajdas">
+    <img src="https://holopin.me/swarajdas" alt="@swarajdas's Holopin badges" width="900" />
+  </a>
 </p>
-<br>
+
 
 <p align="center">
     <img src="https://github-trophies.vercel.app/?username=swaraj-das&theme=darkhub&title=MultiLanguage,Commit,Repositories,Followers,Issues,Stars,PullRequest,Reviews,Organizations&column=8" alt="swaraj-das trophies" />
@@ -16,10 +16,20 @@
 
 
 
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+  <p>
+    - 🌱 I’m currently learning Python and continuously improving my skills in web development and UI/UX design.<br>
+    - 💡 I'm passionate about open source and competitive programming, and I love contributing to community-driven projects.<br>
+    - 🛠️ I also enjoy working on innovative projects that challenge my problem-solving abilities.<br>
+    - 📫 How to reach me: <a href="mailto:swarajdas625w@gmail.com">swarajdas625w@gmail.com</a>
+  </p>
 
-- 📄 Know about my education - **B.Tech in Computer Science Engineering**
-- 🌱 I’m currently learning **Python**
-- 📫 How to reach me **swarajdas625w@gmail.com**
+
+
+
+
+
+
 <p align="left">
   <a href="https://twitter.com/swaraj__das" target="blank"><img src="https://img.shields.io/twitter/follow/swaraj__das?logo=twitter&style=for-the-badge" alt="swaraj__das" /></a>
 </p>
@@ -99,7 +109,7 @@
 
 
 
-[![An image of @swarajdas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swarajdas)](https://holopin.io/@swarajdas)
+
 
 
 
