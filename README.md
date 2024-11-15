@@ -1,6 +1,11 @@
+<p align="center"> <img src="my design.png" alt="My Design Banner"> </p>
 <h1 align="center">Hi 👋, I'm Swaraj</h1>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=32CD32&width=600&height=38&lines=A+passionate+programmer+from+Kolkata...;Problem+solver...;Exploring+the+world+of+tech...&center=true"></a>
+</p>
+
+<p align="center">
+    <img src="https://github-trophies.vercel.app/?username=swaraj-das&theme=darkhub&title=MultiLanguage,Commit,Repositories,Followers,Issues,Stars,PullRequest,Reviews,Organizations&column=8" alt="swaraj-das trophies" />
 </p>
 
 <p align="center">
@@ -9,13 +14,6 @@
   </a>
 </p>
 
-
-<p align="center">
-    <img src="https://github-trophies.vercel.app/?username=swaraj-das&theme=darkhub&title=MultiLanguage,Commit,Repositories,Followers,Issues,Stars,PullRequest,Reviews,Organizations&column=8" alt="swaraj-das trophies" />
-</p>
-
-
-
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
   <p>
     - 🌱 I’m currently learning Python and continuously improving my skills in web development and UI/UX design.<br>
@@ -23,12 +21,6 @@
     - 🛠️ I also enjoy working on innovative projects that challenge my problem-solving abilities.<br>
     - 📫 How to reach me: <a href="mailto:swarajdas625w@gmail.com">swarajdas625w@gmail.com</a>
   </p>
-
-
-
-
-
-
 
 <p align="left">
   <a href="https://twitter.com/swaraj__das" target="blank"><img src="https://img.shields.io/twitter/follow/swaraj__das?logo=twitter&style=for-the-badge" alt="swaraj__das" /></a>
@@ -83,8 +75,6 @@
 
 
 
-
-
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 
@@ -101,8 +91,6 @@
 <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=swaraj-das&theme=github-compact&custom_title=My%20GitHub%20Contribution%20Graph&radius=16&hide_border=true&area=true&color=32CD32" alt="My GitHub Contribution Graph" /></a>
 
 </p>
-
-
 
 
 
