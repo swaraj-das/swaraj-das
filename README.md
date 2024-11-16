@@ -1,12 +1,13 @@
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <p align="center"> <img src="my design.png" alt="My Design Banner"> </p>
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<h1 align="center">Swaraj Das</h1>
+
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=32CD32&width=600&height=38&lines=A+passionate+programmer+from+Kolkata...;Enthusiatic+Coder...;Exploring+the+world+of+tech...;Creative+UI/UX+Designer...;Open+Source+Enthusiasist&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=32CD32&width=600&height=38&lines=A+passionate+programmer+from+Kolkata...;Enthusiatic+Coder...;Exploring+the+world+of+tech...;Creative+UI/UX+Designer...;Open+Source+Enthusiasist...&center=true"></a>
 </p>
-<!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <p align="center">
     <img src="https://github-trophies.vercel.app/?username=swaraj-das&theme=darkhub&title=MultiLanguage,Commit,Repositories,Followers,Issues,Stars,PullRequest,Reviews,Organizations&column=8" alt="swaraj-das trophies" />
 </p>
@@ -18,12 +19,16 @@
 </p>
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
-  <p>
-    - 🌱 I’m currently learning Python and continuously improving my skills in web development and UI/UX design.<br>
-    - 💡 I'm passionate about open source and competitive programming, and I love contributing to community-driven projects.<br>
-    - 🛠️ I also enjoy working on innovative projects that challenge my problem-solving abilities.<br>
-    - 📫 How to reach me: <a href="mailto:swarajdas625w@gmail.com">swarajdas625w@gmail.com</a>
-  </p>
+
+- 🌱 I’m currently learning Python and continuously improving my skills in web development and UI/UX design.
+
+- 💡 I'm passionate about open source and competitive programming, and I love contributing to community-driven projects.
+
+- 🛠️ I also enjoy working on innovative projects that challenge my problem-solving abilities.
+
+- 📫 How to reach me: [swarajdas625w@gmail.com](mailto:swarajdas625w@gmail.com)
+
+
 
 <p align="left">
   <a href="https://twitter.com/swaraj__das" target="blank"><img src="https://img.shields.io/twitter/follow/swaraj__das?logo=twitter&style=for-the-badge" alt="swaraj__das" /></a>
