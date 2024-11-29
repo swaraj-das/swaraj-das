@@ -28,14 +28,6 @@
 
 - 📫 How to reach me: [swarajdas625w@gmail.com](mailto:swarajdas625w@gmail.com)
 
-
-
-<p align="left">
-  <a href="https://twitter.com/swaraj__das" target="blank">
-    <img src="https://img.shields.io/twitter/follow/swaraj__das?logo=twitter&style=for-the-badge" alt="swaraj__das" />
-  </a>
-</p>
-
 <h3 align="left">🤝 Connect with Me:</h3>
 <p align="center">
   <a href="https://x.com/swaraj__das" target="_blank">
