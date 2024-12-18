@@ -111,7 +111,7 @@
       <a href="https://www.geeksforgeeks.org/user/swarajd4www/">
         <img src="https://gfgstatscard.vercel.app/swarajd4www" alt="GFG Stats" width="380"/>
       </a>
-      <p><b><img src="https://play-lh.googleusercontent.com/ZI21NMObsjB7DbPU_EXRymHJL3HQpfsrB2N4CWb-diXm4xjl_13mmetYQZvcpgGf-64=w600-h300-pc0xffffff-pd" width="35"> Click to view my GeeksforGeeks profile</b></p>
+      <p><b><img src="https://play-lh.googleusercontent.com/ZI21NMObsjB7DbPU_EXRymHJL3HQpfsrB2N4CWb-diXm4xjl_13mmetYQZvcpgGf-64=w600-h300-pc0xffffff-pd" width="35">Click to view my GeeksforGeeks profile</b></p>
     </td>
   </tr>
 </table>
