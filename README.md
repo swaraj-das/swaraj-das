@@ -97,7 +97,7 @@
   </a>
 </div>
 
-## <img src="" width="30"> Coding Stats :
+## <img src="https://i.gifer.com/1fZB.gif" width="30"> Coding Stats :
 
 <table align="center">
   <tr>
