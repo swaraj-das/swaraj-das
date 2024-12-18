@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<img align="right" alt="coding" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 - 🌱 I’m currently learning Python and continuously improving my skills in web development and UI/UX design.
 
@@ -28,7 +28,7 @@
 
 - 📫 How to reach me: [swarajdas625w@gmail.com](mailto:swarajdas625w@gmail.com)
 
-<h3 align="left">🤝 Connect with Me:</h3>
+## <img src="https://usagif.com/wp-content/uploads/gifs/handshake-63.gif" width="35"> Connect with Me :
 <p align="center">
   <a href="https://x.com/swaraj__das" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" />
@@ -61,9 +61,9 @@
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
 </p>
 
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Hack+Nerd+Font&duration=2000&pause=500&color=E6EDF3&random=false&width=435&lines=Feel+free+to+connect+with+me+%F0%9F%98%8A+" alt="Typing SVG" /></a>
+<a href="#" ><img src="https://readme-typing-svg.herokuapp.com?font=Hack+Nerd+Font&duration=2000&pause=500&color=E6EDF3&random=false&width=435&lines=Feel+free+to+connect+with+me+%F0%9F%98%8A+" alt="Typing SVG" /></a>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"><b> Skills :</b>
 <div align="center">  
   <a href="https://www.cprogramming.com/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
@@ -97,19 +97,17 @@
   </a>
 </div>
 
-## <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="35"><b>LeetCode Stats</b> :
+## <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="35"><b>LeetCode Stats :</b> 
 <div align="center" style="margin: 20px;">
     <a href="https://leetcode.com/swaraj_das_00/">
         <img src="https://leetcard.jacoblin.cool/swaraj_das_00" alt="LeetCode Stats">
     </a>
-    <p style="font-size: 1.2em; margin-top: 10px; color: #32CD32;">Click to view my LeetCode profile</p>
+    <b><p>Click to view my LeetCode profile</p></b>
 </div>
 
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats :</b>
 <p align="center">
    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=swaraj-das&show_icons=true&hide=&count_private=true&title_color=32CD32&text_color=ffffff&icon_color=32CD32&bg_color=1c1917&hide_border=true&show_icons=true&custom_title=My%20GitHub%20Stats&card_width=420px" alt="swaraj-das's GitHub stats" /></a>
    <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=swaraj-das&stroke=ffffff&background=1c1917&ring=32CD32&fire=32CD32&currStreakNum=ffffff&currStreakLabel=32CD32&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=420px" /></a
