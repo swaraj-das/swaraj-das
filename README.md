@@ -63,7 +63,7 @@
 
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Hack+Nerd+Font&duration=2000&pause=500&color=E6EDF3&random=false&width=435&lines=Feel+free+to+connect+with+me+%F0%9F%98%8A+" alt="Typing SVG" /></a>
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 <div align="center">  
   <a href="https://www.cprogramming.com/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
@@ -97,9 +97,17 @@
   </a>
 </div>
 
+## <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="35"><b>LeetCode Stats</b> :
+<div align="center" style="margin: 20px;">
+    <a href="https://leetcode.com/swaraj_das_00/">
+        <img src="https://leetcard.jacoblin.cool/swaraj_das_00" alt="LeetCode Stats">
+    </a>
+    <p style="font-size: 1.2em; margin-top: 10px; color: #32CD32;">Click to view my LeetCode profile</p>
+</div>
 
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 
 <p align="center">
