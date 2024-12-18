@@ -97,26 +97,21 @@
   </a>
 </div>
 
-## <img src="https://i.gifer.com/1fZB.gif" width="30"> Coding Stats :
+## <img src="" width="30"> Coding Stats :
 
 <table align="center">
   <tr>
     <td align="center">
-<p>
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="25" align: "middle"/> 
-  <b style="margin-bottom:10px;">LeetCode Stats :</b>
-</p>
       <a href="https://leetcode.com/swaraj_das_00/">
-        <img src="https://leetcard.jacoblin.cool/swaraj_das_00" alt="LeetCode Stats" />
+        <img src="https://leetcard.jacoblin.cool/swaraj_das_00" alt="LeetCode Stats" height="180"/>
       </a>
-      <b><p>Click to view my LeetCode profile</p></b>
+      <p><b><img src="https://ih1.redbubble.net/image.662995401.2784/st,small,507x507-pad,600x600,f8f8f8.u3.jpg" width="20"> Click to view my LeetCode profile</b></p>
     </td>
     <td align="center">
-    <img src="https://play-lh.googleusercontent.com/ZI21NMObsjB7DbPU_EXRymHJL3HQpfsrB2N4CWb-diXm4xjl_13mmetYQZvcpgGf-64=w600-h300-pc0xffffff-pd" width="35"> <b>GeekforGeeks Stats :</b>
       <a href="https://www.geeksforgeeks.org/user/swarajd4www/">
         <img src="https://gfgstatscard.vercel.app/swarajd4www" alt="GFG Stats" width="380"/>
       </a>
-      <b><p>Click to view my GeeksforGeeks profile</p></b>
+      <p><b><img src="https://play-lh.googleusercontent.com/ZI21NMObsjB7DbPU_EXRymHJL3HQpfsrB2N4CWb-diXm4xjl_13mmetYQZvcpgGf-64=w600-h300-pc0xffffff-pd" width="35"> Click to view my GeeksforGeeks profile</b></p>
     </td>
   </tr>
 </table>
