@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-trophies.vercel.app/?username=swaraj-das&theme=darkhub&title=MultiLanguage,Commit,Repositories,Followers,Issues,Stars,PullRequest,Reviews,Organizations&column=8" alt="swaraj-das trophies" />
+    <img src="https://github-trophies.vercel.app/?username=swaraj-das&theme=darkhub&title=MultiLanguage,Commit,Repositories,Followers,Issues,Stars,PullRequest,Reviews,Organizations&column=8&margin-w=15&margin-h=15" alt="swaraj-das trophies" />
 </p>
 
 <p align="center">
