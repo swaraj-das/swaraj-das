@@ -8,16 +8,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=32CD32&width=600&height=38&lines=A+passionate+programmer+from+Kolkata...;Enthusiatic+Coder...;Exploring+the+world+of+tech...;Creative+UI/UX+Designer...;Open+Source+Enthusiasist...&center=true"></a>
 </p>
 
-<p align="center">
-    <img src="https://github-trophies.vercel.app/?username=swaraj-das&theme=darkhub&title=MultiLanguage,Commit,Repositories,Followers,Issues,Stars,PullRequest,Reviews,Organizations&column=8&margin-w=15&margin-h=15" alt="swaraj-das trophies" />
-</p>
-
-<p align="center">
-  <a href="https://holopin.io/@swarajdas">
-    <img src="https://holopin.me/swarajdas" alt="@swarajdas's Holopin badges" width="900" />
-  </a>
-</p>
-
 <img align="right" alt="coding" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 - 🌱 I’m currently learning Python and continuously improving my skills in web development and UI/UX design.
@@ -28,7 +18,7 @@
 
 - 📫 How to reach me: [swarajdas625w@gmail.com](mailto:swarajdas625w@gmail.com)
 
-## <img src="https://usagif.com/wp-content/uploads/gifs/handshake-63.gif" width="35"> Connect with Me :
+### <img src="https://usagif.com/wp-content/uploads/gifs/handshake-63.gif" width="35"> Connect with Me :
 <p align="center">
   <a href="https://x.com/swaraj__das" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" />
@@ -63,7 +53,7 @@
 
 <a href="#" ><img src="https://readme-typing-svg.herokuapp.com?font=Hack+Nerd+Font&duration=2000&pause=500&color=E6EDF3&random=false&width=435&lines=Feel+free+to+connect+with+me+%F0%9F%98%8A+" alt="Typing SVG" /></a>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"><b> Skills :</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills :</b>
 <div align="center">  
   <a href="https://www.cprogramming.com/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
@@ -97,28 +87,35 @@
   </a>
 </div>
 
-## <img src="https://i.gifer.com/1fZB.gif" width="30"> Coding Stats :
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://leetcode.com/swaraj_das_00/">
-        <img src="https://leetcard.jacoblin.cool/swaraj_das_00" alt="LeetCode Stats" height="180"/>
-      </a>
-      <p><b><img src="https://ih1.redbubble.net/image.662995401.2784/st,small,507x507-pad,600x600,f8f8f8.u3.jpg" width="20"> Click to view my LeetCode profile</b></p>
-    </td>
-    <td align="center">
-      <a href="https://www.geeksforgeeks.org/user/swarajd4www/">
-        <img src="https://gfgstatscard.vercel.app/swarajd4www" alt="GFG Stats" width="380"/>
-      </a>
-      <p><b><img src="https://play-lh.googleusercontent.com/ZI21NMObsjB7DbPU_EXRymHJL3HQpfsrB2N4CWb-diXm4xjl_13mmetYQZvcpgGf-64=w600-h300-pc0xffffff-pd" width="35">Click to view my GeeksforGeeks profile</b></p>
-    </td>
-  </tr>
-</table>
-
+## <img src="https://i.pinimg.com/originals/49/63/55/49635571e277679dbba17f67dee7da98.gif" width="50"> Coding Stats :
+<details open>
+ <summary><b>VIEW <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTd0c2ZweTJzcXhocDMxZmtqNjdhc2dpbHpqdWE2ZWYwb3RqaXk3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h5RfJOwdDlIqpkycmO/giphy.webp" width="30"></b></summary>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="https://leetcode.com/swaraj_das_00/">
+          <img src="https://leetcard.jacoblin.cool/swaraj_das_00" alt="LeetCode Stats" height="180"/>
+        </a>
+        <p><b><img src="https://ih1.redbubble.net/image.662995401.2784/st,small,507x507-pad,600x600,f8f8f8.u3.jpg" width="20"> Click to view my LeetCode profile</b></p>
+      </td>
+      <td align="center">
+        <a href="https://www.geeksforgeeks.org/user/swarajd4www/">
+          <img src="https://gfgstatscard.vercel.app/swarajd4www" alt="GFG Stats" width="380"/>
+        </a>
+        <p><b><img src="https://play-lh.googleusercontent.com/ZI21NMObsjB7DbPU_EXRymHJL3HQpfsrB2N4CWb-diXm4xjl_13mmetYQZvcpgGf-64=w600-h300-pc0xffffff-pd" width="35"> Click to view my GeeksforGeeks profile</b></p>
+      </td>
+    </tr>
+  </table>
+</details>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats :</b>
+<details open>
+ <summary><b>VIEW <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTd0c2ZweTJzcXhocDMxZmtqNjdhc2dpbHpqdWE2ZWYwb3RqaXk3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h5RfJOwdDlIqpkycmO/giphy.webp" width="30"></b></summary> 
+<br>
+<p align="center">
+    <img src="https://github-trophies.vercel.app/?username=swaraj-das&theme=darkhub&title=MultiLanguage,Commit,Repositories,Followers,Issues,Stars,PullRequest,Reviews,Organizations&column=8&margin-w=15&margin-h=15" alt="swaraj-das trophies" />
+</p>
 <p align="center">
    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=swaraj-das&show_icons=true&hide=&count_private=true&title_color=32CD32&text_color=ffffff&icon_color=32CD32&bg_color=1c1917&hide_border=true&show_icons=true&custom_title=My%20GitHub%20Stats&card_width=400px" alt="swaraj-das's GitHub stats" /></a>
    <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=swaraj-das&stroke=ffffff&background=1c1917&ring=32CD32&fire=32CD32&currStreakNum=ffffff&currStreakLabel=32CD32&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=400px" /></a
@@ -131,7 +128,15 @@
 </div>
 
 <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=swaraj-das&theme=github-compact&custom_title=My%20GitHub%20Contribution%20Graph&radius=16&hide_border=true&area=true&color=32CD32" alt="My GitHub Contribution Graph" /></a>
+</details>
 
+---
+### <img src="https://media.tenor.com/9wRAjXrgP7gAAAAj/join-probloxity-or-be-a-dinglebob-like-me.gif" width="45"> Holopin Badges:
+</p>
+<p align="center">
+  <a href="https://holopin.io/@swarajdas">
+    <img src="https://holopin.me/swarajdas" alt="@swarajdas's Holopin badges" width="900" />
+  </a>
 </p>
 
 
