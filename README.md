@@ -1,8 +1,5 @@
-<!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <p align="center"> <img src="my design.png" alt="My Design Banner"> </p>
-<!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" height="2">
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=32CD32&width=600&height=38&lines=A+passionate+programmer+from+Kolkata...;Enthusiatic+Coder...;Exploring+the+world+of+tech...;Creative+UI/UX+Designer...;Open+Source+Enthusiasist...&center=true"></a>
@@ -19,7 +16,7 @@
 - 📫 How to reach me: [swarajdas625w@gmail.com](mailto:swarajdas625w@gmail.com)
 
 ### <img src="https://usagif.com/wp-content/uploads/gifs/handshake-63.gif" width="35"> Connect with Me :
-<p align="center">
+<p align="left">
   <a href="https://x.com/swaraj__das" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
@@ -53,8 +50,8 @@
 
 <a href="#" ><img src="https://readme-typing-svg.herokuapp.com?font=Hack+Nerd+Font&duration=2000&pause=500&color=E6EDF3&random=false&width=435&lines=Feel+free+to+connect+with+me+%F0%9F%98%8A+" alt="Typing SVG" /></a>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills :</b>
-<div align="center">  
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills :</b>
+<div align="left">  
   <a href="https://www.cprogramming.com/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
   </a>  
@@ -87,8 +84,8 @@
   </a>
 </div>
 
-## <img src="https://i.pinimg.com/originals/49/63/55/49635571e277679dbba17f67dee7da98.gif" width="50"> Coding Stats :
-<details open>
+### <img src="https://i.pinimg.com/originals/49/63/55/49635571e277679dbba17f67dee7da98.gif" width="50"> Coding Stats :
+<details>
  <summary><b>VIEW <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTd0c2ZweTJzcXhocDMxZmtqNjdhc2dpbHpqdWE2ZWYwb3RqaXk3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h5RfJOwdDlIqpkycmO/giphy.webp" width="30"></b></summary>
   <table align="center">
     <tr>
@@ -109,8 +106,8 @@
 </details>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats :</b>
-<details open>
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats :</b>
+<details>
  <summary><b>VIEW <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTd0c2ZweTJzcXhocDMxZmtqNjdhc2dpbHpqdWE2ZWYwb3RqaXk3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h5RfJOwdDlIqpkycmO/giphy.webp" width="30"></b></summary> 
 <br>
 <p align="center">
@@ -130,8 +127,8 @@
 <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=swaraj-das&theme=github-compact&custom_title=My%20GitHub%20Contribution%20Graph&radius=16&hide_border=true&area=true&color=32CD32" alt="My GitHub Contribution Graph" /></a>
 </details>
 
----
 ### <img src="https://media.tenor.com/9wRAjXrgP7gAAAAj/join-probloxity-or-be-a-dinglebob-like-me.gif" width="45"> Holopin Badges:
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" height="2">
 </p>
 <p align="center">
   <a href="https://holopin.io/@swarajdas">
