@@ -105,7 +105,7 @@
 </details>
 <p align="left">----------------------------------------------------------------------------------------------------------------------------------------------------</p>
 <details>
-<summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><h3> Github Stats :</h3></summary>
+<summary><h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats :</h3></summary>
 <br>
 <p align="center">
     <img src="https://github-trophies.vercel.app/?username=swaraj-das&theme=darkhub&title=MultiLanguage,Commit,Repositories,Followers,Issues,Stars,PullRequest,Reviews,Organizations&column=8&margin-w=15&margin-h=15" alt="swaraj-das trophies" />
