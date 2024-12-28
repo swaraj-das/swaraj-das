@@ -96,6 +96,7 @@
 <details>
 <summary><h3><img src="https://i.pinimg.com/originals/49/63/55/49635571e277679dbba17f67dee7da98.gif" width="50"> Coding Stats :</h3>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0035.gif" width="1920" height="0.5"></summary>
+    <br>
   <table align="center">
     <tr>
       <td align="center">
