@@ -84,10 +84,8 @@
   </a>
 </div>
 
-### <img src="https://i.pinimg.com/originals/49/63/55/49635571e277679dbba17f67dee7da98.gif" width="50"> Coding Stats :
 <details>
- <summary><b>VIEW <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTd0c2ZweTJzcXhocDMxZmtqNjdhc2dpbHpqdWE2ZWYwb3RqaXk3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h5RfJOwdDlIqpkycmO/giphy.webp" width="30"></b></summary>
-    <br>
+<summary><h3><img src="https://i.pinimg.com/originals/49/63/55/49635571e277679dbba17f67dee7da98.gif" width="50"> Coding Stats :</h3></summary>
   <table align="center">
     <tr>
       <td align="center">
@@ -105,11 +103,9 @@
     </tr>
   </table>
 </details>
-
-
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats :</b>
+<p align="center">-------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 <details>
- <summary><b>VIEW <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTd0c2ZweTJzcXhocDMxZmtqNjdhc2dpbHpqdWE2ZWYwb3RqaXk3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h5RfJOwdDlIqpkycmO/giphy.webp" width="30"></b></summary> 
+<summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><h3> Github Stats :</h3></summary>
 <br>
 <p align="center">
     <img src="https://github-trophies.vercel.app/?username=swaraj-das&theme=darkhub&title=MultiLanguage,Commit,Repositories,Followers,Issues,Stars,PullRequest,Reviews,Organizations&column=8&margin-w=15&margin-h=15" alt="swaraj-das trophies" />
@@ -127,6 +123,7 @@
 
 <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=swaraj-das&theme=github-compact&custom_title=My%20GitHub%20Contribution%20Graph&radius=16&hide_border=true&area=true&color=32CD32" alt="My GitHub Contribution Graph" /></a>
 </details>
+<p align="center">-------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
 ### <img src="https://media.tenor.com/9wRAjXrgP7gAAAAj/join-probloxity-or-be-a-dinglebob-like-me.gif" width="45"> Holopin Badges:
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" height="2">
