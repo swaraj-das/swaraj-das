@@ -103,7 +103,7 @@
     </tr>
   </table>
 </details>
-<p align="center">-------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<p align="left">----------------------------------------------------------------------------------------------------------------------------------------------------</p>
 <details>
 <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><h3> Github Stats :</h3></summary>
 <br>
@@ -123,7 +123,7 @@
 
 <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=swaraj-das&theme=github-compact&custom_title=My%20GitHub%20Contribution%20Graph&radius=16&hide_border=true&area=true&color=32CD32" alt="My GitHub Contribution Graph" /></a>
 </details>
-<p align="center">-------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<p align="left">----------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
 ### <img src="https://media.tenor.com/9wRAjXrgP7gAAAAj/join-probloxity-or-be-a-dinglebob-like-me.gif" width="45"> Holopin Badges:
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" height="2">
