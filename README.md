@@ -87,6 +87,7 @@
 ### <img src="https://i.pinimg.com/originals/49/63/55/49635571e277679dbba17f67dee7da98.gif" width="50"> Coding Stats :
 <details>
  <summary><b>VIEW <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTd0c2ZweTJzcXhocDMxZmtqNjdhc2dpbHpqdWE2ZWYwb3RqaXk3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h5RfJOwdDlIqpkycmO/giphy.webp" width="30"></b></summary>
+    <br>
   <table align="center">
     <tr>
       <td align="center">
