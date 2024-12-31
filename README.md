@@ -59,43 +59,36 @@
 <a href="#" ><sub><img src="https://readme-typing-svg.herokuapp.com?font=Hack+Nerd+Font&duration=2000&pause=500&color=E6EDF3&random=false&width=450&lines=Feel+free+to+connect+with+me+%F0%9F%98%8A+" alt="Typing SVG" /></sub></a>
 -->
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills :</b>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" style="vertical-align:top; margin:4px" height="50" />
-  </a>  
-  <a href="https://www.cplusplus.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" style="vertical-align:top; margin:4px" height="50" />
-  </a>  
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" style="vertical-align:top; margin:4px" height="50" />
-  </a>  
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" style="vertical-align:top; margin:4px" height="50" />
-  </a>  
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" style="vertical-align:top; margin:4px" height="50" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" style="vertical-align:top; margin:4px" height="50" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" style="vertical-align:top; margin:4px" height="50" />
-  </a>  
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" style="vertical-align:top; margin:4px" height="50" />
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-    <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" style="vertical-align:top; margin:4px" height="50" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-    <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" style="vertical-align:top; margin:4px" height="50" />
-  </a>
-</p>
+
+<details>
+<summary><h3><img src="https://images.squarespace-cdn.com/content/v1/656e7567e1a7b64925df6bc6/80998c81-49e8-408b-ad3c-fd0edef9243c/MTMWeb_About_3_Tools.gif" width="35"> Skills :</h3><hr></summary>
+
+🌟 **Programming Languages**
+| <img src="https://img.icons8.com/color/48/000000/python.png" width="48"> | <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="48"> | <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="48"> | <img src="https://img.icons8.com/color/48/000000/css3.png" width="48"> | <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48"> | <img src="https://img.icons8.com/color/48/000000/kotlin.png" width="48"> | <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="48"> |
+|:-------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------:|:-----------------------------------------------------------------------:|:-------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
+| Python                                                                    | JavaScript                                                                  | HTML                                                                    | CSS                                                                    | Java                                                                    | Kotlin                                                                  | C#                                                                     |
+
+🛠️ **Tools Used**
+| <img src="https://img.icons8.com/color/40/000000/visual-studio-code-2019.png" width="40"> | <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" width="40"> | <img src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png" width="40"> | <img src="https://img.icons8.com/color/40/000000/canva.png" width="40"> |
+|:---------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
+| VSCode                                                                                  | Git                                                                                          | GitHub                                                                                                       | Canva                                                                                                       |
+
+🤝 **Soft Skills**
+| <img src="https://img.icons8.com/color/48/000000/conference-call.png" width="48"> | <img src="https://img.icons8.com/color/48/000000/teamwork.png" width="48"> | <img src="https://img.icons8.com/color/48/000000/idea.png" width="48"> | <img src="https://github.com/user-attachments/assets/ef647d41-702b-48d2-b103-88e4c6242bd3" alt="Adaptability" width="40"> | <img src="https://img.icons8.com/color/48/000000/reading.png" width="48"> |
+|:----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|:---------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
+| Communication                                                                      | Collaboration                                                            | Problem Solving                                                      | Adaptability                                                                                                 | Continuous Learning                                                    |
+
+🎨 **Creative Skills**
+| <img src="https://img.icons8.com/color/40/000000/adobe-photoshop--v1.png" width="40"> | <img src="https://img.icons8.com/color/40/000000/figma--v1.png" width="40"> | <img src="https://img.icons8.com/color/40/000000/canva.png" width="40"> |
+|:------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|:------------------------------------------------------------------------:|
+| Adobe Photoshop                                                                      | Figma                                                                        | Canva                                                                   |
+
+</details>
+
 
 <details>
 <summary><h3><img src="https://i.pinimg.com/originals/49/63/55/49635571e277679dbba17f67dee7da98.gif" width="50"> Coding Stats :</h3>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" width="1920" height="1"></summary>
+<hr></summary>
     <br>
   <table align="center">
     <tr>
@@ -117,8 +110,7 @@
 
 <details>
 <summary><h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats :</h3>
-<br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" width="1920" height="1"></summary>
+<hr></summary>
 <br>
 <p align="center">
     <img src="https://github-trophies.vercel.app/?username=swaraj-das&theme=darkhub&title=MultiLanguage,Commit,Repositories,Followers,Issues,Stars,PullRequest,Reviews,Organizations&column=8&margin-w=15&margin-h=15" alt="swaraj-das trophies" />
