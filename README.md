@@ -5,7 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=32CD32&width=600&height=38&lines=A+passionate+programmer+from+Kolkata...;Enthusiatic+Coder...;Exploring+the+world+of+tech...;Creative+UI/UX+Designer...;Open+Source+Enthusiasist...&center=true"></a>
 </p>
 
-<img align="right" alt="coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTF1M29tNTZ1N2dmbDZ0b3NuNXYyZm5kY2x5djFmb2h4c2N2emlyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif">
 <img align="right" alt="coding" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXB3NjVhaDVpaG50ZGxxemd3MjBnM25nOHZjNDAzdnR4MmZycTV2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f7omQNmgiyjj5sffvZ/giphy.gif">
 
 #### ✔️ Currently Learning  
