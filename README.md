@@ -1,23 +1,12 @@
-<p align="center"> <img src="my design.png" alt="My Design Banner"> </p>
+<!--<p align="center"> <img src="my design.png" alt="My Design Banner"> </p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" height="2">
-
+-->
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=32CD32&width=600&height=38&lines=A+passionate+programmer+from+Kolkata...;Enthusiatic+Coder...;Exploring+the+world+of+tech...;Creative+UI/UX+Designer...;Open+Source+Enthusiasist...&center=true"></a>
 </p>
 
 <img align="right" alt="coding" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXB3NjVhaDVpaG50ZGxxemd3MjBnM25nOHZjNDAzdnR4MmZycTV2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f7omQNmgiyjj5sffvZ/giphy.gif">
 
-#### ✔️ Currently Learning  
-- 🖋️ DSA</sub>  
-
-#### 💻 I'm Working On  
-- 🛠️ My problem-solving skills</sub>  
-- 🌐 My portfolio</sub>  
-- 📚 DSA practicing journey</sub>  
-
-#### 🎯 Goals for 2025  
-- 🚀 Learn new tech stuffs</sub>  
-- 🕒 Being consistent</sub>  
 
 #### 😄 Fun Fact  
 - 💻 My Code = 30% (👨‍💻 Me) + 50% (🤖 ChatGPT) + 20% (🔍 Google)</sub>
@@ -128,7 +117,7 @@
 
 <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=swaraj-das&theme=github-compact&custom_title=My%20GitHub%20Contribution%20Graph&radius=16&hide_border=true&area=true&color=32CD32" alt="My GitHub Contribution Graph" /></a>
 </details>
-
+<!--
 <details>
 <summary><h3><img src="https://media.tenor.com/9wRAjXrgP7gAAAAj/join-probloxity-or-be-a-dinglebob-like-me.gif" width="40"> Holopin Badges:</h3></summary>
 </p>
@@ -139,6 +128,7 @@
 </p>
 </details>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" height="2">
+-->
 
 
 
